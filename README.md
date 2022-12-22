@@ -1,5 +1,5 @@
 # About
-Project created in the course API RESTful with Kotlin.
+Project created in the course API REST with Kotlin.
 
 ## Requirements
 * Java 17.x.x
@@ -24,7 +24,7 @@ CREATE TABLE expenses (
 
 2. Clone the application
 ```
-git clone ....
+git clone https://github.com/erosvitor/expense-book.git
 ```
 
 3. Build the project
